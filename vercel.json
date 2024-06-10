@@ -1,0 +1,52 @@
+{
+    "routes": [
+        {
+            "src": "/",
+            "dest": "/"
+        },
+        {
+            "src": "/home",
+            "dest": "/"
+        },
+        {
+            "src": "/login",
+            "dest": "/"
+        },
+        {
+            "src": "/dashboard",
+            "dest": "/"
+        },
+        {
+            "src": "/feeds",
+            "dest": "/"
+        },
+        {
+            "src": "/about",
+            "dest": "/"
+        },
+        {
+            "src": "/accelX",
+            "dest": "/"
+        },
+        {
+            "src": "/accelY",
+            "dest": "/"
+        },
+        {
+            "src": "/accelZ",
+            "dest": "/"
+        },
+        {
+            "src": "/phSensor",
+            "dest": "/"
+        },
+        {
+            "src": "/temperSensor",
+            "dest": "/"
+        },
+        {
+            "src": "/turbidSensor",
+            "dest": "/"
+        }
+    ]
+}
